@@ -11,7 +11,7 @@ header {
     width: 80%;
 }
 
-h1, p {
+h1 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.2em;
 }
