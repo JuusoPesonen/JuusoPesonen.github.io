@@ -3,16 +3,20 @@ body {
     padding: 10px;
     margin: 10px;
 }
-
+/* main content */
+#content {
+    display: grid;
+    
+}
+/* header block */
 header {
     box-sizing: border-box;
     background-color: aquamarine;
     border: 1px solid black;
     border-radius: 10px;
     justify-content: center;
-    padding: 5px;
 }
-
+/* header text */
 h1 {
     text-align: center;
 }
@@ -20,4 +24,22 @@ h1 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.2em;
     padding: 10px;
+}
+/* article block */
+
+article {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    background-color: aquamarine;
+    border: 1px solid black;
+    border-radius: 10px;
+    justify-content: center;
+    width: 100%;
+    margin: 10px;
+}
+/* MG Logo */
+
+.mglogo {
+    height: 80px;
 }
