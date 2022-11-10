@@ -23,26 +23,3 @@ h1 p {
     font-size: 1.2em;
     padding: 10px;
 }
-
-/* article block */
-article {
-    display: flex;
-    flex-direction: row;
-    box-sizing: border-box;
-    background-color: aquamarine;
-    border: 1px solid black;
-    border-radius: 10px;
-    justify-content: center;
-    width: 100%;
-    margin: 10px;
-}
-
-/* MG Logo */
-.mglogo {
-    height: 80px;
-}
-
-/* NI Image */
-.niImg {
-    height: 100px;
-}
