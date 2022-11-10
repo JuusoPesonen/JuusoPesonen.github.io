@@ -1,5 +1,5 @@
 body {
-    background-color: burlywood;
+    /* background-color: #425F75; */
     padding: 10px;
     margin: 10px;
 }
@@ -8,7 +8,7 @@ body {
 /* header block */
 header {
     box-sizing: border-box;
-    background-color: #06B2F0;
+    background-color: #88C6F5;
     border: 1px solid black;
     border-radius: 10px;
     justify-content: center;
@@ -29,12 +29,18 @@ h1 p {
 }
 
 /* Column rows */
-.pink {
-    background: pink;
+.light-blue {
+    background: #6D9DC2;
 }
-.blue {
-    background: blue;
+.dark-blue {
+    background: #656E75;
 }
-.green {
-    background: green;
+.bright-blue {
+    background: #D4E8F7;
+}
+
+.navbar {
+    background: #88C6F5;
+    border-radius: 10px;
+    overflow: hidden;
 }
