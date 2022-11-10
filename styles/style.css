@@ -26,6 +26,7 @@ h1 p {
 /* Carousel images */
 .carousel-item img {
     margin: auto;
+    height: 600px;
 }
 
 /* Column rows */
