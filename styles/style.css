@@ -13,6 +13,7 @@ header {
     border-radius: 10px;
     justify-content: center;
 }
+
 /* header text */
 h1 {
     text-align: center;
@@ -22,8 +23,8 @@ h1 p {
     font-size: 1.2em;
     padding: 10px;
 }
-/* article block */
 
+/* article block */
 article {
     display: flex;
     flex-direction: row;
@@ -35,14 +36,13 @@ article {
     width: 100%;
     margin: 10px;
 }
-/* MG Logo */
 
+/* MG Logo */
 .mglogo {
     height: 80px;
 }
 
 /* NI Image */
-
 .niImg {
     height: 100px;
 }
