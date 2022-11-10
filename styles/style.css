@@ -23,3 +23,7 @@ h1 p {
     font-size: 1.2em;
     padding: 10px;
 }
+
+.carousel-item img {
+    margin: auto;
+}
