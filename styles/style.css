@@ -25,7 +25,7 @@ h1 p {
     padding: 10px;
 }
 
-/* Carousel images */
+/* Carousel items */
 .carousel-item img {
     margin: auto;
     height: 600px;
@@ -41,13 +41,28 @@ h1 p {
 .bright-blue {
     background: #D4E8F7;
 }
-.col-9 img {
-    margin-left: 35%;
+
+/* First page columns */
+.col-md-6 img {
     height: 250px;
 }
 
-.col-md-6 img {
+/* Third page columns */
+.col-9 {
+    border-radius: 10px;
+}
+.col-9 img {
+    margin-left: 35%;
     height: 250px;
+    border-radius: 10px;
+}
+
+.col-4 {
+    border-radius: 10px;
+}
+
+.col-6 {
+    border-radius: 10px;
 }
 
 /* Nav bar */
