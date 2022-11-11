@@ -39,6 +39,14 @@ h1 p {
 .bright-blue {
     background: #D4E8F7;
 }
+.col-9 img {
+    margin-left: 35%;
+    height: 250px;
+}
+
+.col-md-6 img {
+    height: 250px;
+}
 
 /* Nav bar */
 .navbar {
