@@ -58,6 +58,9 @@ h1 p {
 }
 
 /* Accodian labels */
+.accordion-body {
+    overflow: hidden;
+}
 .accordion-collapse {
     background: #6D9DC2;
 }
