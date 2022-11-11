@@ -46,3 +46,11 @@ h1 p {
     border-radius: 10px;
     overflow: hidden;
 }
+
+/* Accodian labels */
+.accordion-collapse {
+    background: #6D9DC2;
+}
+.accordion-item {
+    background: #88C6F5;
+}
