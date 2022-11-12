@@ -52,6 +52,9 @@ p {
 }
 /* Second page columns */
 
+.col-md-6 img {
+    height: 250px;
+}
 
 /* Third page columns */
 .col-9 {
@@ -98,7 +101,11 @@ p {
 .accordion-item {
     background: #88C6F5;
 }
+/* Card item */
 
+.card {
+    margin: auto;
+}
 /* Screen breakpoints */
 
 /* Small devices (landscape phones, 576px and up) */
