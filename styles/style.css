@@ -13,6 +13,8 @@ header {
     border: 1px solid black;
     border-radius: 10px;
     justify-content: center;
+    padding: 10px;
+    margin: auto;
 }
 
 /* Header text */
@@ -51,9 +53,18 @@ p {
 .col-md-6 {
     width: 500px;
     justify-content: center;
+    border-radius: 10px;
+}
+.col-md-6 p {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
 }
 .col-md-6 img {
     height: 250px;
+    border-radius: 10px;
+}
+.col-md-3 {
     border-radius: 10px;
 }
 
