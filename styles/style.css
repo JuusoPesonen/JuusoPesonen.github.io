@@ -134,6 +134,9 @@ a:hover {
 .card {
     margin: auto;
 }
+.card-text {
+    font-size: 1em;
+}
 
 /* Screen breakpoints */
 
