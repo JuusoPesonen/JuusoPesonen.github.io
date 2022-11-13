@@ -117,6 +117,12 @@ a:hover {
     background: #88C6F5;
     border-radius: 10px;
     overflow: hidden;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 1.2em;
+}
+
+.navbar-brand img {
+    height: 60px;
 }
 
 /* Accordion labels */
