@@ -50,22 +50,16 @@ p {
 
 /* First page columns */
 
-.col-md-6 {
+#firstBlock {
     width: 500px;
     justify-content: center;
     border-radius: 10px;
 }
-.col-md-6 p {
+
+#firstBlock p {
     text-align: center;
     padding: 10px;
     margin: 10px;
-}
-.col-md-6 img {
-    height: 250px;
-    border-radius: 10px;
-}
-.col-md-3 {
-    border-radius: 10px;
 }
 
 /* Second page columns */
