@@ -22,7 +22,7 @@ h1 {
     text-align: center;
 }
 h1 p {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Oxygen-Regular', serif;
     padding: 10px;
 }
 p {
@@ -118,7 +118,7 @@ a:hover {
     background: #88C6F5;
     border-radius: 10px;
     overflow: hidden;
-    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-family:'Oxygen-Regular', sans-serif;
     font-size: 1.2em;
 }
 
@@ -143,6 +143,20 @@ a:hover {
 }
 .card-text {
     font-size: 1em;
+}
+
+/* Custom fonts */
+@font-face {
+    font-family: 'Oxygen-Regular';
+    src: url("fonts/Oxygen-Regular.ttf");
+}
+@font-face {
+    font-family: 'Oxygen-Bold';
+    src: url('fonts/Oxygen-Bold.ttf');
+}
+@font-face {
+    font-family: "Oxygen-Light";
+    src: url('fonts/Oxygen-Light.ttf');
 }
 
 /* Screen breakpoints */
