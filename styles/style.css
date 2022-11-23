@@ -118,12 +118,20 @@ a:hover {
     background: #88C6F5;
     border-radius: 10px;
     overflow: hidden;
-    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-family:'Roboto Mono', monospace, sans-serif;
     font-size: 1.2em;
 }
 
 .navbar-brand img {
     height: 60px;
+}
+/* Icons */
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48,
 }
 
 /* Accordion labels */
