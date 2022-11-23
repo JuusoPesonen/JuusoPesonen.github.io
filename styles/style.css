@@ -119,14 +119,6 @@ a:hover {
 .navbar-brand img {
     height: 60px;
 }
-/* Icons */
-.material-symbols-outlined {
-    font-variation-settings:
-    'FILL' 0,
-    'wght' 400,
-    'GRAD' 0,
-    'opsz' 48,
-}
 
 /* Accordion labels */
 .accordion-body {
@@ -145,6 +137,15 @@ a:hover {
 }
 .card-text {
     font-size: 1em;
+}
+
+/* Icons */
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48,
 }
 
 /* Custom fonts */
