@@ -12,9 +12,9 @@ header {
     background-color: #88C6F5;
     border: 1px solid black;
     border-radius: 10px;
-    justify-content: center;
     padding: 10px;
-    margin: auto;
+    align-content: center;
+    margin: 0;
 }
 
 /* Header text */
@@ -64,6 +64,12 @@ p {
 
 /* Second page columns */
 
+.col-md-3 {
+    border-radius: 10px;
+}
+.col-md-6 {
+    border-radius: 10px;
+}
 .col-md-6 img {
     height: 250px;
 }
