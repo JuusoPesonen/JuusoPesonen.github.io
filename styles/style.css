@@ -98,11 +98,14 @@ a:hover {
 }
 .col-6 {
     border-radius: 10px;
-    justify-content: center;
 }
 .col-6 a {
+    display: flex;
+    align-items: center;
     text-decoration: none;
     font-size: 1.2em;
+    padding: 10px;
+    margin: 10px;
 }
 .col-6 a:hover {
     color:burlywood;
@@ -111,6 +114,7 @@ a:hover {
     font-size: 1em;
     padding: 10px;
     margin: 10px;
+    justify-content: center;
 }
 
 /* Nav bar */
